@@ -1,14 +1,3 @@
 {
-  "series": [
-    {
-      "serie": "Lubach",
-      "seizoen": 4,
-      "aflevering": 13
-    },
-    {
-      "serie": "The Capture",
-      "seizoen": 1,
-      "aflevering": 6
-    }
-  ]
+  "series": []
 }
