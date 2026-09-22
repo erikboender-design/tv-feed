@@ -64,6 +64,11 @@
       "serie": "The Sopranos",
       "seizoen": 2,
       "aflevering": 8
+    },
+    {
+      "serie": "Game of Thrones",
+      "seizoen": 3,
+      "aflevering": 4
     }
   ]
 }
