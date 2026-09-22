@@ -194,6 +194,11 @@
       "serie": "The Simpsons",
       "seizoen": 10,
       "aflevering": 12
+    },
+    {
+      "serie": "True Detective",
+      "seizoen": 3,
+      "aflevering": 8
     }
   ]
 }
